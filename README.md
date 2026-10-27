@@ -42,6 +42,7 @@ A premium, mobile-first event discovery and ticketing product designed for moder
 
 ## Connect
 
+- [LinkedIn](https://www.linkedin.com/in/donovankore)
 - [GitHub profile](https://github.com/donovankore)
 
 ---
