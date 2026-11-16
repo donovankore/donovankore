@@ -6,39 +6,46 @@ I turn financial and business data into structured analysis, clear recommendatio
 
 ## Selected work
 
-### [BRVM Market Intelligence](https://github.com/donovankore/brvm-market-intelligence)
+### [SaaS FP&A Budget, Forecast & Variance Analysis](https://github.com/donovankore/fpa-saas-budget-forecast)
+Driver-based FP&A case study that converts monthly SaaS operating data into a budget-versus-actual review, rolling forecast, Base and Downside scenarios, and an executive management view.
 
+**FP&A · Excel · Budgeting · Forecasting · Variance Analysis**
+
+[Open the case study](https://github.com/donovankore/fpa-saas-budget-forecast)
+
+### [BRVM Market Intelligence](https://github.com/donovankore/brvm-market-intelligence)
 Investment-research platform built from official BRVM bulletins. The project transforms 58 month-end reports into an auditable issuer-level dataset and evaluates valuation, income, liquidity, and resilience factors.
 
-**SQL · Python · Financial Analytics · Data Quality**  
+**SQL · Python · Financial Analytics · Data Quality**
+
 [View the live dashboard](https://donovankore.github.io/brvm-market-intelligence/)
 
 ### [Bank Financial Health Intelligence](https://github.com/donovankore/bank-financial-health-intelligence)
-
 Explainable early-warning system built with official FDIC and FRED data. It converts more than 167,000 records into risk indicators and a decision-oriented monitoring experience.
 
-**Python · SQL · Machine Learning · Risk Analytics**  
+**Python · SQL · Machine Learning · Risk Analytics**
+
 [View the live dashboard](https://donovankore.github.io/bank-financial-health-intelligence/)
 
 ### [SBA 7(a) Lending Market Strategy](https://github.com/donovankore/SBA-7a-Lending-Market-Strategy)
-
 Business analytics case study using official SBA data to identify lending-growth opportunities while balancing market momentum and historical portfolio risk.
 
-**Business Analytics · Market Strategy · SQL · Python**  
+**Business Analytics · Market Strategy · SQL · Python**
+
 [View the live dashboard](https://donovankore.github.io/SBA-7a-Lending-Market-Strategy/)
 
 ### [KOVA — Event Discovery & Ticketing Platform](https://github.com/donovankore/kova-event-discovery-platform)
-
 A premium, mobile-first event discovery and ticketing product designed for modern cultural experiences in West Africa. Currently in active development.
 
-**Product Analytics · Product Design · JavaScript · Responsive UX**  
+**Product Analytics · Product Design · JavaScript · Responsive UX**
+
 [View the live prototype](https://donovankore.github.io/kova-event-discovery-platform/)
 
 ## Core toolkit
 
 - **Analytics:** SQL, Python, Excel, Power BI, Tableau
-- **Methods:** KPI design, financial analysis, predictive modeling, data quality, dashboard development
-- **Business focus:** decision support, risk analysis, market strategy, executive reporting
+- **Methods:** budgeting, forecasting, KPI design, financial analysis, predictive modeling, data quality, dashboard development
+- **Business focus:** FP&A, decision support, risk analysis, market strategy, executive reporting
 
 ## Connect
 
