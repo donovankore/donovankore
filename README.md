@@ -13,6 +13,13 @@ Driver-based FP&A case study that converts monthly SaaS operating data into a bu
 
 [Open the case study](https://github.com/donovankore/fpa-saas-budget-forecast)
 
+### [U.S. Airline Strategic Finance & Operations Intelligence](https://github.com/donovankore/airline-strategic-finance-intelligence)
+Independent peer analysis built from SEC filings and U.S. Department of Transportation data. The project connects profitability, cash generation, capacity utilization, leverage, and fuel-cost exposure in a decision-ready Excel and SQL model.
+
+**Financial Analysis · Excel · SQL · Python · Scenario Modeling**
+
+[Open the analysis](https://github.com/donovankore/airline-strategic-finance-intelligence)
+
 ### [BRVM Market Intelligence](https://github.com/donovankore/brvm-market-intelligence)
 Investment-research platform built from official BRVM bulletins. The project transforms 58 month-end reports into an auditable issuer-level dataset and evaluates valuation, income, liquidity, and resilience factors.
 
